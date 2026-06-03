@@ -29,7 +29,7 @@ I am a Computer Science student passionate about software engineering, data stru
 ### 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Juhi4433&show_icons=true&theme=dark" alt="Juhi's GitHub Stats" />
+  <img src="https://github-readme-stats.shion.dev/api?username=Juhi4433&show_icons=true&theme=dark" alt="Juhi's GitHub Stats" />
 </p>
 
 ---
