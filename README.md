@@ -25,14 +25,3 @@ I am a Computer Science student passionate about software engineering, data stru
 * **Data Science & ML:** Scikit-Learn, NumPy, Pandas, Matplotlib
 
 ---
-
-### 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.shion.dev/api?username=Juhi4433&show_icons=true&theme=dark" alt="Juhi's GitHub Stats" />
-</p>
-
----
-
-### 📫 Connect with Me
-* 💬 Ask me about Data Structures, Python ML models, or structural codebase analytics!
