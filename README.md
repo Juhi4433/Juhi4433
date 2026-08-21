@@ -7,7 +7,6 @@ I am a Computer Science student passionate about software engineering, data stru
 ### 🚀 Projects & Contributions
 
 * 🛠️ **[Project-Ripple](https://github.com/Juhi4433/Project-Ripple):** Built an AI-accelerated graph-theoretic topology engine designed to map structural gravity, isolate blast radius thresholds, and enforce architectural integrity guardrails across distributed codebase modernizations. Fully audited and optimized via IBM Bob agent workflows.
-* 📱 **[smartphone-addiction-knn](https://github.com/Juhi4433/smartphone-addiction-knn):** Developed a smartphone addiction analysis model using KNN classifiers—achieving 88% accuracy on binary detection and 51% on severity classification, complete with detailed exploratory data analysis (EDA) visualizations.
 * 🌐 **Open Source:** Actively exploring the ecosystem and trying to figure my way around open-source contributions.
 
 ---
